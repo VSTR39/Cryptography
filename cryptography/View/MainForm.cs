@@ -196,10 +196,7 @@ namespace cryptography.View
                 save(rich_txtbox_encrypted_message);
             }
 
-            if (btn.Text == "Open Pic")
-            {
-                LoadPicture(pic_box_encoded);
-            }
+          
 
             if (btn.Text == "Load From File")
             {
