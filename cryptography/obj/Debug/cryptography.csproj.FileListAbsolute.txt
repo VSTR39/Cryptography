@@ -1,0 +1,9 @@
+c:\users\dd\documents\visual studio 2013\Projects\cryptography_vasil_trifonov\cryptography\bin\Debug\cryptography.exe.config
+c:\users\dd\documents\visual studio 2013\Projects\cryptography_vasil_trifonov\cryptography\obj\Debug\cryptography.Properties.Resources.resources
+c:\users\dd\documents\visual studio 2013\Projects\cryptography_vasil_trifonov\cryptography\obj\Debug\cryptography.csproj.GenerateResource.Cache
+c:\users\dd\documents\visual studio 2013\Projects\cryptography_vasil_trifonov\cryptography\obj\Debug\cryptography.View.MainForm.resources
+c:\users\dd\documents\visual studio 2013\Projects\cryptography_vasil_trifonov\cryptography\bin\Debug\cryptography.exe
+c:\users\dd\documents\visual studio 2013\Projects\cryptography_vasil_trifonov\cryptography\bin\Debug\cryptography.pdb
+c:\users\dd\documents\visual studio 2013\Projects\cryptography_vasil_trifonov\cryptography\obj\Debug\cryptography.exe
+c:\users\dd\documents\visual studio 2013\Projects\cryptography_vasil_trifonov\cryptography\obj\Debug\cryptography.pdb
+C:\Users\dd\documents\visual studio 2013\Projects\cryptography_vasil_trifonov\cryptography\obj\Debug\cryptography.View.EnterKeyForm.resources
